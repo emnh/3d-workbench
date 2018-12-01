@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/emnh/3d-workbench#readme",
   "dependencies": {
+    "jquery": "^3.3.1",
+    "three": "^0.99.0",
     "webpack": "^4.26.1",
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10"
