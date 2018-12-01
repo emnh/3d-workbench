@@ -1,0 +1,22 @@
+{
+  "name": "3d-workbench",
+  "version": "1.0.0",
+  "description": "3D modelling tool",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emnh/3d-workbench.git"
+  },
+  "author": "Eivind Magnus Hvidevold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emnh/3d-workbench/issues"
+  },
+  "homepage": "https://github.com/emnh/3d-workbench#readme",
+  "dependencies": {
+    "webpack": "^4.26.1"
+  }
+}
